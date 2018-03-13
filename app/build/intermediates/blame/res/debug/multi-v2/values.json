@@ -1,0 +1,62 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tishamthomas/Desktop/ALFINALPROJECT/ASL_Interpreter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/tishamthomas/Desktop/ALFINALPROJECT/ASL_Interpreter/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "345,403",
+                        "endColumns": "57,55",
+                        "endOffsets": "398,454"
+                    }
+                },
+                {
+                    "source": "/Users/tishamthomas/Desktop/ALFINALPROJECT/ASL_Interpreter/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "8,4,12,3,13,9,5,10,7,11,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "300,109,533,56,586,353,162,412,262,458,222",
+                        "endColumns": "52,52,52,52,45,58,59,45,37,74,39",
+                        "endOffsets": "348,157,581,104,627,407,217,453,295,528,257"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "459,512,565,618,671,717,776,836,882,920,995",
+                        "endColumns": "52,52,52,52,45,58,59,45,37,74,39",
+                        "endOffsets": "507,560,613,666,712,771,831,877,915,990,1030"
+                    }
+                },
+                {
+                    "source": "/Users/tishamthomas/Desktop/ALFINALPROJECT/ASL_Interpreter/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "20,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "1035,1326",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1321,1481"
+                    }
+                }
+            ]
+        }
+    ]
+}

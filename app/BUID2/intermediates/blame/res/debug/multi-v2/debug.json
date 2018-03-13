@@ -1,0 +1,132 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\build\\intermediates\\res\\merged\\debug\\values-w820dp-v13_values-w820dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "305",
+                        "endColumns": "57",
+                        "endOffsets": "358"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "57",
+                        "endOffsets": "108"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\build\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "89,147",
+                        "endColumns": "57,55",
+                        "endOffsets": "142,198"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "345,403",
+                        "endColumns": "57,55",
+                        "endOffsets": "398,454"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "186,510",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "472,665"
+                    },
+                    "to": {
+                        "startLines": "20,27",
+                        "startColumns": "4,4",
+                        "startOffsets": "1035,1326",
+                        "endLines": "26,29",
+                        "endColumns": "12,12",
+                        "endOffsets": "1321,1481"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "8,4,12,3,13,9,5,10,7,11,6",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "300,109,533,56,586,353,162,412,262,458,222",
+                        "endColumns": "52,52,52,52,45,58,59,45,37,74,39",
+                        "endOffsets": "348,157,581,104,627,407,217,453,295,528,257"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "459,512,565,618,671,717,776,836,882,920,995",
+                        "endColumns": "52,52,52,52,45,58,59,45,37,74,39",
+                        "endOffsets": "507,560,613,666,712,771,831,877,915,990,1030"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\build\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "220",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "366"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\build\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\Desktop\\ASL_Interpreter\\app\\src\\main\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "177",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "309"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "187"
+                    }
+                }
+            ]
+        }
+    ]
+}
