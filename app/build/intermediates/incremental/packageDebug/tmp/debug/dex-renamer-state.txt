@@ -1,4 +1,0 @@
-#Mon Feb 12 12:07:28 IST 2018
-base.0=/Users/tishamthomas/Desktop/ALFINALPROJECT/ASL_Interpreter/app/build/intermediates/transforms/dexMerger/debug/0
-path.0=classes.dex
-renamed.0=classes.dex
