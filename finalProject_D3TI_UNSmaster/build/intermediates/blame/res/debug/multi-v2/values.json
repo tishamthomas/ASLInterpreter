@@ -1,0 +1,57 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+            "map": [
+                {
+                    "source": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,3,-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,4,-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,56,-1,-1,-1,-1,-1,-1,-1",
+                        "endColumns": "-1,-1,-1,45,-1,-1,-1,-1,-1,-1,-1",
+                        "endOffsets": "-1,-1,-1,97,-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "9,10,11,12,13,14,15,16,17,18,19",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "459,512,565,618,664,710,769,829,875,913,988",
+                        "endColumns": "52,52,52,45,45,58,59,45,37,74,39",
+                        "endOffsets": "507,560,613,659,705,764,824,870,908,983,1023"
+                    }
+                },
+                {
+                    "source": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "20,23",
+                        "startColumns": "4,4",
+                        "startOffsets": "1028,1111",
+                        "endLines": "22,25",
+                        "endColumns": "12,12",
+                        "endOffsets": "1106,1178"
+                    }
+                },
+                {
+                    "source": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1",
+                        "startColumns": "-1,-1",
+                        "startOffsets": "-1,-1"
+                    },
+                    "to": {
+                        "startLines": "7,8",
+                        "startColumns": "4,4",
+                        "startOffsets": "345,403",
+                        "endColumns": "57,55",
+                        "endOffsets": "398,454"
+                    }
+                }
+            ]
+        }
+    ]
+}

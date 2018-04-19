@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="CameraBridgeViewBase"><attr format="boolean" name="show_fps"/><attr format="integer" name="camera_id">
+          <enum name="any" value="-1"/>
+          <enum name="back" value="99"/>
+          <enum name="front" value="98"/>
+       </attr></declare-styleable>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <string name="AddGesture">Add\n Gesture</string>
+    <string name="action_save">Save Picture</string>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">SIGNTALK</string>
+    <string name="app_test">App Test</string>
+    <string name="chooser_title">Select a gesture</string>
+    <string name="data_collection">Data Collection</string>
+    <string name="map_apps">Map Apps</string>
+    <string name="test">Test</string>
+    <string name="title_activity_display_app_list">DisplayAppList</string>
+    <string name="train">Train</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        
+    </style>
+</resources>

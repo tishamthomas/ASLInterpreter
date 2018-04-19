@@ -1,0 +1,23 @@
+{
+  "buildFiles": [
+    "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Android.mk",
+    "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Application.mk"
+  ],
+  "cleanCommands": [
+    "/Users/tishamthomas/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/lib clean"
+  ],
+  "libraries": {
+    "signal-debug-x86": {
+      "artifactName": "signal",
+      "buildCommand": "/Users/tishamthomas/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/lib /Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj/local/x86/libsignal.so",
+      "abi": "x86",
+      "output": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj/local/x86/libsignal.so"
+    },
+    "ReadMySign-debug-x86": {
+      "artifactName": "ReadMySign",
+      "buildCommand": "/Users/tishamthomas/Library/Android/sdk/ndk-bundle/ndk-build NDK_PROJECT_PATH\u003dnull APP_BUILD_SCRIPT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Android.mk NDK_APPLICATION_MK\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/src/main/jni/Application.mk APP_ABI\u003dx86 NDK_ALL_ABIS\u003dx86 NDK_DEBUG\u003d1 APP_PLATFORM\u003dandroid-14 NDK_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj NDK_LIBS_OUT\u003d/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/lib /Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj/local/x86/libReadMySign.so",
+      "abi": "x86",
+      "output": "/Users/tishamthomas/Desktop/ASL_Interpreter/finalProject_D3TI_UNSmaster/build/intermediates/ndkBuild/debug/obj/local/x86/libReadMySign.so"
+    }
+  }
+}
